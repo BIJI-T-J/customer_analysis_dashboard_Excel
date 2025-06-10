@@ -1,4 +1,4 @@
-# bijitj_upliance.ai_assignment
+# Customer behaviour and trend analysis
 In this project we analyse user details and their behaviours on cooking sessions and food orderings and create a dynamic dashboard
 This whole project is divided to 4
 
@@ -11,3 +11,4 @@ This whole project is divided to 4
 4. Created report: Using charts in Excel,we built a dynamic dashboard with slicers that give insights about user, orders and cooking sessions.
    
 After this analysis we generated a business report that addresses the challenges and recommendations for a boom in sales
+![Screenshot (1190)](https://github.com/user-attachments/assets/602d66e6-47c4-4957-878e-2d4290d725d8)
